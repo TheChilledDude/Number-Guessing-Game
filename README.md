@@ -10,9 +10,13 @@ After each guess, the program gives feedback:
 - Or if the guess is correct.
 
 ## What The Program Does
+
 1.The user is asked to enter a maximum number (range).
+
 2.The program randomly selects a number between 0 and the chosen number.
+
 3.The user keeps guessing until they find the correct number.
+
 4.The program counts how many guesses it took
 
 ## Features
@@ -35,10 +39,10 @@ Run the script:
 ## Future Improvements
 
  - Add difficulty levels (easy, medium, hard)
- -Limit the number of guesses
+ - Limit the number of guesses
  - Show the correct number after the game ends
  - Add a replay option
- - 
+   
 ## Author
 
 Unathi Malangabi
