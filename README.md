@@ -1,6 +1,6 @@
 # Number-Guessing-Game
 
-## This is a simple command-line number guessing game written in Python.
+## This is a simple number guessing game written in Python.
 
 A simple Python number guessing game where the program generates a random number within a range chosen by the user, and the player must guess the number. 
 
@@ -30,16 +30,33 @@ Python 3.x installed
 
 ## How to Run
 
-Download or clone this repository
-Open a terminal or command prompt
-Navigate to the project folder
+Download or clone this repository.
+Open a terminal or command prompt.
+Navigate to the project folder.
 Run the script:
  python your_script_name.py
 
+## Example Gameplay
+
+Type a number: 11
+Make a guess: 6
+You were below the number!
+Make a guess: 12
+You were above the number!
+Make a guess: 11
+You were above the number!
+Make a guess: 7
+You were below the number!
+Make a guess: 8
+You were below the number!
+Make a guess: 9
+You got it!
+You got it in 6 guesses
+
 ## Future Improvements
 
- - Limit the number of guesses
- - Show the correct number after the game ends
+ - Limit the number of guesses.
+ - Show the correct number after the game ends.
    
    
 ## Author
