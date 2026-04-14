@@ -38,10 +38,9 @@ Run the script:
 
 ## Future Improvements
 
- - Add difficulty levels (easy, medium, hard)
  - Limit the number of guesses
  - Show the correct number after the game ends
- - Add a replay option
+   
    
 ## Author
 
