@@ -20,21 +20,21 @@ After each guess, the program gives feedback:
 4.The program counts how many guesses it took
 
 ## Features
- - Input validation (ensures only numbers are entered)
- - Random number generation using Python’s built-in random module
- - Unlimited guesses until correct answer
- - Feedback after every guess
+ - Input validation (ensures only numbers are entered).
+ - Random number generation using Python’s built-in random module.
+ - Unlimited guesses until correct answer.
+ - Feedback after every guess.
    
 ## Requirements
 Python 3.x installed
 
 ## How to Run
 
-Download or clone this repository.
-Open a terminal or command prompt.
-Navigate to the project folder.
-Run the script:
- python your_script_name.py
+ - Download or clone this repository.
+ - Open a terminal or command prompt.
+ - Navigate to the project folder.
+ - Run the script:
+    python number_guessing_game.py
 
 ## Example Gameplay
 
