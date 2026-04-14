@@ -39,18 +39,31 @@ Python 3.x installed
 ## Example Gameplay
 
 Type a number: 11
+
 Make a guess: 6
+
 You were below the number!
+
 Make a guess: 12
+
 You were above the number!
+
 Make a guess: 11
+
 You were above the number!
+
 Make a guess: 7
+
 You were below the number!
+
 Make a guess: 8
+
 You were below the number!
+
 Make a guess: 9
+
 You got it!
+
 You got it in 6 guesses
 
 ## Future Improvements
